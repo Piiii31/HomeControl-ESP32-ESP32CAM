@@ -1,0 +1,7 @@
+{
+  "projects": [
+    "HomeControl",
+    "HomeControl-ESP32-Django",
+    "esp32cam_Stream"
+  ]
+}

@@ -1,0 +1,4 @@
+- **IR Signal Reception**: Capture IR signals from remote controls using the ESP32.
+- **Data Transmission**: Send captured signals from the ESP32 to the ESP32CAM.
+- **Server Communication**: The ESP32CAM sends the captured data to a designated server for storage.
+- **Remote Control Capability**: Enables control of home appliances through the captured IR signals.

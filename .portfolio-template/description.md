@@ -1,0 +1,1 @@
+**HomeControl** is designed to allow remote control of various home appliances using IR signals. The project utilizes ESP32 devices to receive, process, and transmit IR signals, providing a seamless way to control devices via a web interface or mobile app.
